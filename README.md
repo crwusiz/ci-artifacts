@@ -1,4 +1,4 @@
-# Raylib UI Screenshots: c765177
+# Raylib UI Screenshots: 3a7c09c
 This branch is automatically updated with raylib screenshots from the `master_cr` branch of `crwusiz/openpilot`.
 
 ## Latest Screenshots
@@ -48,8 +48,14 @@ This branch is automatically updated with raylib screenshots from the `master_cr
 ### pair_device.png
 ![pair_device.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview/pair_device.png)
 ---
-### settings_community.png
-![settings_community.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview/settings_community.png)
+### settings_community_function.png
+![settings_community_function.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview/settings_community_function.png)
+---
+### settings_community_log.png
+![settings_community_log.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview/settings_community_log.png)
+---
+### settings_community_toggle.png
+![settings_community_toggle.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview/settings_community_toggle.png)
 ---
 ### settings_developer.png
 ![settings_developer.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview/settings_developer.png)
