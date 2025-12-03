@@ -1,10 +1,7 @@
-# Raylib UI Screenshots: 1eccd75
+# Raylib UI Screenshots: bcbebae
 This branch is automatically updated with raylib screenshots from the `master_c3` branch of `crwusiz/openpilot`.
 
 ## Latest Screenshots
----
-### confirmation_dialog.png
-![confirmation_dialog.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/confirmation_dialog.png)
 ---
 ### experimental_mode_description.png
 ![experimental_mode_description.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/experimental_mode_description.png)
@@ -18,17 +15,11 @@ This branch is automatically updated with raylib screenshots from the `master_c3
 ### homescreen_prime.png
 ![homescreen_prime.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/homescreen_prime.png)
 ---
-### homescreen_unifont.png
-![homescreen_unifont.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/homescreen_unifont.png)
----
 ### homescreen_update_available.png
 ![homescreen_update_available.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/homescreen_update_available.png)
 ---
 ### keyboard.png
 ![keyboard.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/keyboard.png)
----
-### offroad_alert.png
-![offroad_alert.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/offroad_alert.png)
 ---
 ### onroad.png
 ![onroad.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/onroad.png)
@@ -57,6 +48,15 @@ This branch is automatically updated with raylib screenshots from the `master_c3
 ### pair_device.png
 ![pair_device.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/pair_device.png)
 ---
+### settings_community_function.png
+![settings_community_function.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/settings_community_function.png)
+---
+### settings_community_log.png
+![settings_community_log.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/settings_community_log.png)
+---
+### settings_community_toggle.png
+![settings_community_toggle.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/settings_community_toggle.png)
+---
 ### settings_developer.png
 ![settings_developer.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/settings_developer.png)
 ---
@@ -74,15 +74,6 @@ This branch is automatically updated with raylib screenshots from the `master_c3
 ---
 ### settings_software.png
 ![settings_software.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/settings_software.png)
----
-### settings_software_branch_switcher.png
-![settings_software_branch_switcher.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/settings_software_branch_switcher.png)
----
-### settings_software_download.png
-![settings_software_download.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/settings_software_download.png)
----
-### settings_software_release_notes.png
-![settings_software_release_notes.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/settings_software_release_notes.png)
 ---
 ### settings_toggles.png
 ![settings_toggles.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c3/settings_toggles.png)
