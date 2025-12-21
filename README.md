@@ -1,4 +1,4 @@
-# Raylib UI Screenshots: 4b5087c
+# Raylib UI Screenshots: bb66b6f
 This branch is automatically updated with raylib screenshots from the `master_c3` branch of `crwusiz/openpilot`.
 
 ## Latest Screenshots
