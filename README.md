@@ -1,28 +1,10 @@
-# Raylib UI Screenshots: 9ab1abf
+# Raylib UI Screenshots: 68d5044
 This branch is automatically updated with raylib screenshots from the `master_c4` branch of `crwusiz/openpilot`.
 
 ## Latest Screenshots
 ---
 ### mici_homescreen.png
 ![mici_homescreen.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_homescreen.png)
----
-### mici_onroad.png
-![mici_onroad.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_onroad.png)
----
-### mici_onroad_full_alert.png
-![mici_onroad_full_alert.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_onroad_full_alert.png)
----
-### mici_onroad_full_alert_long_text.png
-![mici_onroad_full_alert_long_text.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_onroad_full_alert_long_text.png)
----
-### mici_onroad_full_alert_multiline.png
-![mici_onroad_full_alert_multiline.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_onroad_full_alert_multiline.png)
----
-### mici_onroad_medium_alert.png
-![mici_onroad_medium_alert.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_onroad_medium_alert.png)
----
-### mici_onroad_small_alert.png
-![mici_onroad_small_alert.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_onroad_small_alert.png)
 ---
 ### mici_settings_developer_page1.png
 ![mici_settings_developer_page1.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_developer_page1.png)
