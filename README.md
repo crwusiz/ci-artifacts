@@ -1,4 +1,4 @@
-# Raylib UI Screenshots: 26f46c9
+# Raylib UI Screenshots: 1166624
 This branch is automatically updated with raylib screenshots from the `master_c4` branch of `crwusiz/openpilot`.
 
 ## Latest Screenshots
@@ -24,17 +24,32 @@ This branch is automatically updated with raylib screenshots from the `master_c4
 ### mici_homescreen.png
 ![mici_homescreen.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_homescreen.png)
 ---
-### mici_settings.png
-![mici_settings.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings.png)
+### mici_mici_settings_scrolled.png
+![mici_mici_settings_scrolled.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_mici_settings_scrolled.png)
 ---
 ### mici_settings_network.png
 ![mici_settings_network.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_network.png)
 ---
+### mici_settings_page1.png
+![mici_settings_page1.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_page1.png)
+---
+### mici_settings_page2.png
+![mici_settings_page2.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_page2.png)
+---
+### mici_settings_page3.png
+![mici_settings_page3.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_page3.png)
+---
+### mici_settings_page4.png
+![mici_settings_page4.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_page4.png)
+---
+### mici_settings_page5.png
+![mici_settings_page5.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_page5.png)
+---
+### mici_settings_page6.png
+![mici_settings_page6.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_page6.png)
+---
 ### mici_settings_toggles.png
 ![mici_settings_toggles.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_toggles.png)
----
-### mici_settings_wifi.png
-![mici_settings_wifi.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_wifi.png)
 ---
 ### onroad.png
 ![onroad.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/onroad.png)
