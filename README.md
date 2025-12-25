@@ -1,4 +1,4 @@
-# Raylib UI Screenshots: 2fddeb0
+# Raylib UI Screenshots: 80a818b
 This branch is automatically updated with raylib screenshots from the `master_c4` branch of `crwusiz/openpilot`.
 
 ## Latest Screenshots
@@ -47,6 +47,9 @@ This branch is automatically updated with raylib screenshots from the `master_c4
 ---
 ### mici_settings_device_page8.png
 ![mici_settings_device_page8.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_device_page8.png)
+---
+### mici_settings_device_page9.png
+![mici_settings_device_page9.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_device_page9.png)
 ---
 ### mici_settings_network_page1.png
 ![mici_settings_network_page1.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_network_page1.png)
