@@ -1,10 +1,28 @@
-# Raylib UI Screenshots: 68d5044
+# Raylib UI Screenshots: 20d1683
 This branch is automatically updated with raylib screenshots from the `master_c4` branch of `crwusiz/openpilot`.
 
 ## Latest Screenshots
 ---
 ### mici_homescreen.png
 ![mici_homescreen.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_homescreen.png)
+---
+### mici_settings_community_page1.png
+![mici_settings_community_page1.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_community_page1.png)
+---
+### mici_settings_community_page2.png
+![mici_settings_community_page2.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_community_page2.png)
+---
+### mici_settings_community_page3.png
+![mici_settings_community_page3.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_community_page3.png)
+---
+### mici_settings_community_page4.png
+![mici_settings_community_page4.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_community_page4.png)
+---
+### mici_settings_community_page5.png
+![mici_settings_community_page5.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_community_page5.png)
+---
+### mici_settings_community_page6.png
+![mici_settings_community_page6.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_community_page6.png)
 ---
 ### mici_settings_developer_page1.png
 ![mici_settings_developer_page1.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_developer_page1.png)
@@ -83,6 +101,9 @@ This branch is automatically updated with raylib screenshots from the `master_c4
 ---
 ### mici_settings_page6.png
 ![mici_settings_page6.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_page6.png)
+---
+### mici_settings_page7.png
+![mici_settings_page7.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_page7.png)
 ---
 ### mici_settings_toggle_page1.png
 ![mici_settings_toggle_page1.png](https://raw.githubusercontent.com/crwusiz/ci-artifacts/ui_preview_c4/mici_settings_toggle_page1.png)
